@@ -1,2 +1,0 @@
-# POJ_Lab
-Laboratoria
